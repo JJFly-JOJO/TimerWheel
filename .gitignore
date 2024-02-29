@@ -1,0 +1,8 @@
+.clang-format
+.vscode
+Listings
+Objects
+/cmake-build*
+/build
+/output
+.idea
